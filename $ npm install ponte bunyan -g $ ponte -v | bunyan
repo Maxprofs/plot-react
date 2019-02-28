@@ -1,0 +1,2 @@
+$ npm install ponte bunyan -g
+$ ponte -v | bunyan
